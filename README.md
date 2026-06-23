@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bonjour, je suis Checkynael Dely 👋
 
-<!--
-**checkynaeldely/checkynaeldely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Data Scientist en formation | Abidjan, Côte d'Ivoire
 
-Here are some ideas to get you started:
+Je construis mes compétences en Data Science pour résoudre
+des problèmes concrets en Afrique et à l'international.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Compétences en cours d'acquisition
+- 🐍 Python
+- 📊 Analyse de données
+- 🤖 Machine Learning
+- 📈 Visualisation de données
+
+---
+
+## 📚 Mon parcours
+- 🔭 Actuellement : Formation intensive Data Science
+- 🌱 En train d'apprendre : Python, Statistiques, Analyse de données
+- 🎯 Objectif : Data Scientist Expert d'ici 18 mois
+- 💬 Me contacter pour : opportunités, collaborations, projets Data
+
+---
+
+## 📊 Mes projets (à venir)
+> Les projets seront ajoutés au fur et à mesure de ma formation.
+
+---
+
+*"Les données sont le pétrole du 21ème siècle — et je deviens l'ingénieur qui le raffine."*
